@@ -13,6 +13,7 @@ public class Main {
 
 
 
+
         tester1.increaseSalary(100);
         tester2.increaseSalary(10); // на 10%
         tester3.updateEnglishLevel("C1");
