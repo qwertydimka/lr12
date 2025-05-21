@@ -7,7 +7,7 @@ public class Main {
         Tester tester3 = new Tester("Анна", "Сидорова", 5, "B2", 2000.0);
 
 
-        
+
 
         tester1.increaseSalary(100);
         tester2.increaseSalary(10); // на 10%
